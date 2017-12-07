@@ -1,6 +1,6 @@
 Recover ss plugin in Misstar Tools
 
-* only support MiWiFi R3G and R3P routers
+* only support MiWiFi R3G and R3P and R3 routers
 
 Run shell command: 
 

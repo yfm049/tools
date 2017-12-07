@@ -2,7 +2,7 @@
 clear
 model=$(cat /proc/xiaoqiang/model)
 
-if [ "$model" == "R3G" -o "$model" == "R3P" ]; then
+if [ "$model" == "R3G" -o "$model" == "R3P" -o "$model"=="R3" ]; then
 	echo "小米"$model"路由器插件安装程序"
 	echo "========================="
 	echo ""
